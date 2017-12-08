@@ -11,7 +11,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-    //constants for menu items
+    //constants for menu items ss
     final int MENU_ALPHA_ID = 1;
     final int MENU_SCALE_ID = 2;
     final int MENU_TRANSLATE_ID = 3;
